@@ -46,7 +46,7 @@
 
 > **[2026-07]** 🎉 InfiniSplat has been conditionally accepted to SIGGRAPH Asia 2026 (Journal Track)!
 
-> **[2026-07]** 🎉 Inference code for RGB-only and depth-sensor-guided 3D Gaussian reconstruction is available now!
+> **[2026-07]** 🎉 Inference code for RGB-only and depth-guided 3D Gaussian reconstruction is available now!
 
 ## 🧩 What can InfiniSplat do?
 
