@@ -8,7 +8,7 @@
   <a href="https://zju3dv.github.io/InfiniSplat">
     <img src="https://img.shields.io/badge/Project-Page-red?logo=googlechrome&logoColor=red">
   </a>
-  <a href="#">
+  <a href="https://arxiv.org/abs/2608.02437">
     <img src="https://img.shields.io/badge/arXiv-Paper-blue?logo=arxiv&logoColor=blue">
   </a>
   <a href="https://zju3dv.github.io/InfiniSplat/#visualization">
