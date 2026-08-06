@@ -39,3 +39,6 @@ examples/data/**/outputs/
 *.mkv
 *.compressed.ply
 *.sog
+/wandb
+src/src.combined
+src/model/model.combined
